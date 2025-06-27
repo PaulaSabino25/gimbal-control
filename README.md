@@ -22,8 +22,7 @@ Este aplicativo Android permite controlar o gimbal M01 via Bluetooth BLE.
 
 ## Observações
 - Os comandos BLE devem ser ajustados conforme o protocolo do gimbal M01 (UUIDs e payloads).
+- Este APK é de debug e não está assinado para publicação na Play Store. Ele serve apenas para testes e validação.
 - Para produção, gere o APK de release e assine digitalmente.
 
----
 
-Dúvidas ou suporte: [Seu contato aqui]
