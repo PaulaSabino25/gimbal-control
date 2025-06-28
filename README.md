@@ -25,4 +25,19 @@ Este aplicativo Android permite controlar o gimbal M01 via Bluetooth BLE.
 - Este APK é de debug e não está assinado para publicação na Play Store. Ele serve apenas para testes e validação.
 - Para produção, gere o APK de release e assine digitalmente.
 
+Como gerar o APK
+1. Clone o repositório:
+
+git clone https://github.com/PaulaSabino25/gimbal-control.git
+
+2. Abra o projeto no Android Studio.
+
+3. No menu, selecione Build > Build APK(s).
+
+4. O APK gerado estará na pasta:
+
+app/build/outputs/apk/debug/app-debug.apk
+
+5. Transfira o APK para o dispositivo Android e instale normalmente.
+
 
