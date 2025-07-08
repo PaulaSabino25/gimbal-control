@@ -1,0 +1,76 @@
+📱 GUIA DE INSTALAÇÃO - GIMBAL CONTROL
+=====================================
+
+🔧 REQUISITOS:
+• Android 6.0 ou superior
+• Bluetooth habilitado
+• Gimbal M01 compatível
+
+📋 INSTALAÇÃO PASSO A PASSO:
+
+1️⃣ PERMITIR INSTALAÇÃO DE APPS EXTERNOS:
+   • Vá em: Configurações > Segurança
+   • Ative: "Fontes desconhecidas" 
+   • OU: Configurações > Apps > Acesso especial > Instalar apps desconhecidos
+   • Escolha seu navegador e ative
+
+2️⃣ INSTALAR O APP:
+   • Baixe o arquivo: GimbalControl.apk
+   • Toque no arquivo baixado
+   • Toque em "Instalar"
+   • Aguarde a instalação
+   • Toque em "Abrir" ou encontre o app na tela inicial
+
+3️⃣ PRIMEIRA CONEXÃO:
+   • Ligue o gimbal M01
+   • Abra o app "Gimbal Control"
+   • Toque em "Conectar" ou ícone Bluetooth
+   • Selecione "M01" ou seu gimbal na lista
+   • Aguarde "Conectado" aparecer
+
+4️⃣ USAR O CONTROLE:
+   • Use o joystick virtual para mover o gimbal
+   • Botões de controle na parte inferior
+   • Ajustes de velocidade disponíveis
+
+🚨 PROBLEMAS COMUNS E SOLUÇÕES:
+
+❌ "App não instala":
+   ✅ Verifique se "Fontes desconhecidas" está ativo
+   ✅ Reinicie o celular e tente novamente
+
+❌ "Não encontra o gimbal":
+   ✅ Certifique-se que o gimbal está ligado
+   ✅ Verifique se o Bluetooth está ativo
+   ✅ Aproxime o celular do gimbal (máximo 10 metros)
+
+❌ "Conexão falha":
+   ✅ Desligue e ligue o gimbal novamente
+   ✅ Feche e abra o app
+   ✅ Limpe o cache do Bluetooth: Configurações > Apps > Bluetooth > Armazenamento > Limpar Cache
+
+❌ "Controle não responde":
+   ✅ Verifique se a conexão está estável
+   ✅ Reinicie a conexão no app
+   ✅ Verifique a bateria do gimbal
+
+📞 SUPORTE TÉCNICO:
+Em caso de dúvidas:
+• WhatsApp: [Inserir número]
+• Email: [Inserir email]
+• Horário: Segunda a Sexta, 9h às 18h
+• Resposta garantida em até 2 horas
+
+✨ DICAS DE USO:
+• Mantenha o gimbal carregado
+• Use o app próximo ao gimbal para melhor conexão
+• Calibre o gimbal antes do primeiro uso
+• Movimentos suaves no joystick = controle mais preciso
+
+🎯 APROVEITAMENTO MÁXIMO:
+• Teste todos os botões de controle
+• Ajuste a velocidade conforme sua necessidade
+• Salve configurações personalizadas
+• Use em ambientes com boa conexão Bluetooth
+
+Developed by Paula Sabino © 2025

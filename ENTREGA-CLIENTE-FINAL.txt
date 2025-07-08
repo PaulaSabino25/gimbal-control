@@ -1,0 +1,51 @@
+🎯 GIMBAL CONTROL - ENTREGA FINAL
+================================
+
+Prezado(a) Cliente,
+
+Seu aplicativo Gimbal Control está pronto e funcionando!
+
+📱 ARQUIVOS INCLUSOS:
+• GimbalControl.apk - Aplicativo para instalação
+• Instruções_de_Instalação.pdf - Guia passo a passo
+
+🔧 RECURSOS DO APP:
+✅ Controle completo do gimbal M01 via Bluetooth BLE
+✅ Joystick virtual para movimentação precisa
+✅ Interface simples e acessível
+✅ Botões grandes para facilitar o uso
+✅ Conexão Bluetooth estável
+✅ Controles intuitivos
+
+📋 INSTALAÇÃO RÁPIDA:
+1. Baixe o arquivo GimbalControl.apk no seu celular
+2. Vá em Configurações > Segurança
+3. Ative "Fontes desconhecidas" ou "Instalar apps desconhecidos"
+4. Abra o arquivo APK e toque em "Instalar"
+5. Abra o app e conecte ao seu gimbal
+
+💡 PRIMEIRA CONEXÃO:
+1. Ligue o gimbal M01
+2. Abra o app Gimbal Control
+3. Toque em "Conectar Bluetooth"
+4. Selecione seu gimbal M01 na lista
+5. Aguarde a conexão estabelecer
+6. Use o joystick para controlar!
+
+📞 SUPORTE:
+Em caso de dúvidas ou problemas:
+• WhatsApp: [Seu número]
+• Email: [Seu email]
+• Resposta garantida em até 2 horas
+
+✨ GARANTIA:
+• App testado e funcionando 100%
+• Suporte técnico por 30 dias
+• Atualizações gratuitas por 6 meses
+
+Obrigada pela confiança!
+
+Atenciosamente,
+Paula Sabino
+Desenvolvedora Android Especialista
+🚀 Projetos personalizados para suas necessidades
